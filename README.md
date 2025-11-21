@@ -6,7 +6,7 @@ This project performs **unsupervised machine learning** on healthcare data to id
 ---
 
 ## Dataset
-**Source:** `healthcare_dataset.csv`
+**Source:** (https://www.kaggle.com/datasets/prasad22/healthcare-dataset)
 
 ### Original Features
 - **Patient Demographics:** Name, Age, Gender, Blood Type
@@ -190,8 +190,7 @@ Healthcare/
 
 ---
 
-## Author
-Data Science & Machine Learning Project
 
-## License
-This project is for educational and analytical purposes.
+**By Ahmed Ameen**
+- [LinkedIn](https://www.linkedin.com/in/ahmed-ameen--003845303)  
+- [GitHub](https://github.com/ahmedkhaled00007)
